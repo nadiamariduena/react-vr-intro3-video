@@ -20,6 +20,18 @@
 
 - CHROME dont work even without ( adblocker)
 
+#### ⚠️ Video issues related to size 🕵️
+
+- IF you add several videos without realizing that you have 100mb limit to upload to github, it s going to be messy
+
+- I tried to delete the folder and then add only the video i was using and a couple of few low res img, but nothing worked
+
+- I HAD TO CREATE A NEW APP AND A NEW REPO, then i could finally upload the tutorial
+
+###### ORIGINAL APP
+
+[too much data (apparently)](https://github.com/nadiamariduena/react-vr-intro2-video)
+
   <br>
 
   <br>
